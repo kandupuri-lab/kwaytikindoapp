@@ -1,8 +1,8 @@
 {
+ "id": "kwaytikindo-v2",
  "name": "KWAYTIKINDOapp",
  "short_name": "KWAYTIKINDO",
  "description": "Frases básicas em Kwaytikindo, a língua Puri",
-  "id": "kwaytikindo-v2",
  "start_url": "./?app=2",
  "scope": "./",
  "display": "standalone",
